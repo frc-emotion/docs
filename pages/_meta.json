@@ -1,15 +1,22 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+	"index": "Introduction",
+	"*": {
+		"theme": {
+			"timestamp": false
+		}
+	},
+	"about": {
+		"title": "About Σ-Motion ↗",
+		"type": "page",
+		"href": "https://team2658.org/about",
+		"newWindow": true
+	},
+	"contact": {
+		"title": "Contact Σ-Motion ↗",
+		"type": "page",
+		"href": "https://team2658.org/contact",
+		"newWindow": true
+	},
+	"backend": "REST API",
+	"frontend": "Mobile App"
 }
