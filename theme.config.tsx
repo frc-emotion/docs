@@ -4,9 +4,10 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 const config: DocsThemeConfig = {
 	logo: <span>Nautilus Docs</span>,
 	project: {
-		link: "https://github.com/frc-emotion",
+		link: "https://github.com/nautilus-frc",
 	},
-	docsRepositoryBase: "https://github.com/frc-emotion/docs",
+	docsRepositoryBase:
+		"https://github.com/nautilus-frc/nautilus/tree/main/apps/docs",
 	footer: {
 		text: "Nautilus by FRC Team 2658 Σ-Motion",
 	},

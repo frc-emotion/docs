@@ -5,18 +5,6 @@
 			"timestamp": false
 		}
 	},
-	"about": {
-		"title": "About Σ-Motion ↗",
-		"type": "page",
-		"href": "https://team2658.org/about",
-		"newWindow": true
-	},
-	"contact": {
-		"title": "Contact Σ-Motion ↗",
-		"type": "page",
-		"href": "https://team2658.org/contact",
-		"newWindow": true
-	},
 	"backend": "REST API",
 	"frontend": "Mobile App"
 }
